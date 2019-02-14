@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: error:fastjson:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/error/fastjson/unknown/fastjson-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/error/fastjson/unknown/fastjson-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/error/fastjson/unknown/fastjson-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
